@@ -26,7 +26,6 @@ It is maintained as an open resource by the CopilotKiwi team. Learn more at [cop
 
 - [`tasks/`](./tasks) contains categorized task definitions
 - [`prompts/`](./prompts) contains reusable prompt examples
-- [`task-packs/`](./task-packs) contains grouped sets of recommended tasks
 
 ### Task categories
 
@@ -47,13 +46,6 @@ It is maintained as an open resource by the CopilotKiwi team. Learn more at [cop
 - [`prompts/form-filling/`](./prompts/form-filling)
 - [`prompts/navigation/`](./prompts/navigation)
 - [`prompts/research/`](./prompts/research)
-
-### Task packs
-
-- [`Beginner 10`](./task-packs/beginner-10.md)
-- [`Admin 10`](./task-packs/admin-10.md)
-- [`Research 10`](./task-packs/research-10.md)
-- [`Hard Mode 10`](./task-packs/hard-mode-10.md)
 
 ## How to Use This Repo
 
