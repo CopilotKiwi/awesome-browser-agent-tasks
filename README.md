@@ -47,6 +47,10 @@ It is maintained as an open resource by the CopilotKiwi team. Learn more at [cop
 - [`prompts/navigation/`](./prompts/navigation)
 - [`prompts/research/`](./prompts/research)
 
+## Related benchmark
+
+- [ClawBench](https://github.com/TIGER-AI-Lab/ClawBench) — an open-source browser-agent benchmark with 153 everyday tasks across 144 live websites. See the [project page](https://claw-bench.com) and [paper](https://arxiv.org/abs/2604.08523).
+
 ## How to Use This Repo
 
 - browse tasks by category
@@ -57,4 +61,3 @@ It is maintained as an open resource by the CopilotKiwi team. Learn more at [cop
 ## License
 
 This repository uses the [MIT License](./LICENSE).
-
