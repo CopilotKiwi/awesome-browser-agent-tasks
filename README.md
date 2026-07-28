@@ -47,6 +47,10 @@ It is maintained as an open resource by the CopilotKiwi team. Learn more at [cop
 - [`prompts/navigation/`](./prompts/navigation)
 - [`prompts/research/`](./prompts/research)
 
+## Benchmark and Task Suites
+
+For a larger, source-linked task suite, [ClawBench](https://github.com/TIGER-AI-Lab/ClawBench) provides V1 and V2 browser-agent tasks drawn from real-world online workflows. Its [paper](https://arxiv.org/abs/2503.05860), [project page](https://claw-bench.com/), and public task definitions document isolated runs and replayable execution evidence.
+
 ## How to Use This Repo
 
 - browse tasks by category
